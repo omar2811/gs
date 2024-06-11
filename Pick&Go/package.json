@@ -1,0 +1,22 @@
+{
+  "name": "pickandgo",
+  "version": "1.0.0",
+  "description": "api to gs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "gs"
+  ],
+  "author": "oflores",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
